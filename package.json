@@ -1,5 +1,5 @@
 {
-  "name": "react-element-to-jsx-string",
+  "name": "@7rulnik/react-element-to-jsx-string",
   "version": "17.0.0",
   "description": "Turn a ReactElement into the corresponding JSX string.",
   "packageManager": "yarn@1.22.22+sha1.ac34549e6aa8e7ead463a7407e1c7390f61a6610",
@@ -30,12 +30,9 @@
       "git add"
     ]
   },
-  "author": {
-    "name": "Algolia, Inc.",
-    "url": "https://github.com/algolia"
-  },
+  "author": "Valentin 7rulnik Semirulnik <v7rulnik@gmail.com>",
   "license": "MIT",
-  "repository": "algolia/react-element-to-jsx-string",
+  "repository": "7rulnik/react-element-to-jsx-string",
   "devDependencies": {
     "@babel/cli": "7.24.1",
     "@babel/core": "7.24.4",
